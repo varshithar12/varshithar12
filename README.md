@@ -1,4 +1,7 @@
 # 💫 About Me:
+Hi 👋, I'm Varshitha R
+A passionate developer from India
+
 💻 My technical skills include proficiency in programming languages like C, C++, Java, and Python and AIML. <br>🌐 I have experience with version control using Git and GitHub.<br>🛠️ I enjoy collaborating as an open-source contributing.<br>📊 I'm tech enthusiast.<br>📚 My hobby is learning new things and staying curious.<br>🚀 Ongoing Development: Continuously improving my programming and development skills and explore new technologies.
 
 
